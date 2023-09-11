@@ -6,6 +6,8 @@ unzip file.zip -d destination_folder
 
 zip -r [file_name.zip] [directory_name]
 
+
+
 https://civitai.com/models/77121/neoncyberpunkai
 
 (masterpiece, best quality), 1 girl, adult woman, purple eyes, dark brown short hair, solo, upper body, detailed background, close up, shining (<lora:CyberPunkAI:0.6>, CyberpunkAI theme:1.1), divine deity of love, soft smile, bright eyes, flowers, red light, pink ethereal background, majestic divine atmosphere, bright light, holy aura, bloom, halo above head, divine light, white clothes, dynamic pose, ray of light
